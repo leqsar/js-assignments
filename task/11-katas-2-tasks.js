@@ -110,10 +110,10 @@ function getPokerHandRank(hand) {
  * The task is to break the figure in the rectangles it is made of.
  *
  * NOTE: The order of rectanles does not matter.
- * 
+ *
  * @param {string} figure
  * @return {Iterable.<string>} decomposition to basic parts
- * 
+ *
  * @example
  *
  *    '+------------+\n'+
